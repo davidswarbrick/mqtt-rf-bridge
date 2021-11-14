@@ -1,0 +1,9 @@
+hostname: "noid.local"
+topics:
+  "kitchenpi/plug/1":
+    rf_codes:
+      on:  10269260 
+      off: 10269252 
+    gpio:
+      transmit: 17
+      recieve:  27
