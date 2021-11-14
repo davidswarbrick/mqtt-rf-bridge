@@ -7,6 +7,7 @@ Implemented:
 - [x] Configuration file definitions for topics, GPIO pins, RF transmit/recieve codes
 - [x] Subscribing to MQTT Topic
 - [x] Writing data to RF Transmitter
+- [ ] Systemd user service ([for example](https://nts.strzibny.name/systemd-user-services/))
 - [ ] Receiving data from RF Reciever
 - [ ] Publishing to MQTT Topic
 
